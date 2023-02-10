@@ -1,0 +1,27 @@
+{
+  "name": "api-de-super-herois",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larissatoledodev/API-de-Super-Herois.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larissatoledodev/API-de-Super-Herois/issues"
+  },
+  "homepage": "https://github.com/larissatoledodev/API-de-Super-Herois#readme",
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.8.3",
+    "sweetalert2": "^11.7.1",
+    "vite": "^4.1.1"
+  }
+}
